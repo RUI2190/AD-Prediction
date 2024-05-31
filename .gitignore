@@ -1,2 +1,3 @@
 *.gtf
 datasets/
+.ipynb_checkpoints/
