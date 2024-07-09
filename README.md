@@ -1,6 +1,6 @@
 # Evaluation on Predicting Alzheimer's Disease with Blood exRNA using Machine Learning Classifiers
 
-BENG 203 Project
+CSE 283 Data Wrangling in Bioinformatics Project
 
 Collaborators:
 * Boqi Wang
